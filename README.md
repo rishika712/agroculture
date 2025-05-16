@@ -42,13 +42,13 @@ agroculture/
    ```bash
    git clone https://github.com/rishika712/agroculture.git
    cd agroculture
-2. Setup a local server (XAMPP/WAMP):
+2. **Setup a local server (XAMPP/WAMP):**
 
    Place the project folder inside the htdocs directory (for XAMPP).
 
    Start Apache and MySQL.
 
-3. Import the database:
+3. **Import the database:**
 
    Open http://localhost/phpmyadmin
 
@@ -56,13 +56,13 @@ agroculture/
 
    Import the SQL file located in the sql/agroculture.sql path
 
-4. Access the app in your browser:
+4. **Access the app in your browser:**
    http://localhost/agroculture/
    
-🤝 Contributions
+## 🤝 Contributions
 
 Feel free to fork this repository and submit pull requests. Contributions are welcome to enhance features, improve UI/UX, or optimize performance.
 
-📄 License
+## 📄 License
 
 This project is open source and available under the MIT License.
